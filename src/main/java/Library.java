@@ -10,6 +10,7 @@ public class Library {
 		System.out.println("When there is a fire, commit and push.");
 		System.out.println("When there is a fire, commit and push.");
 		int i;
+		int o;
 	}
     public boolean someLibraryMethod() {
         return true;
